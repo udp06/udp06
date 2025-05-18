@@ -11,7 +11,7 @@ udp06
 
 ## Connect with Me
 <p align="center">
-  <a href="https://t.me/udp06"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://t.me/udp05"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://discord.com/users/241340069850513409"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 </p>
 
