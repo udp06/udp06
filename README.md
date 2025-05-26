@@ -1,9 +1,9 @@
 
-# Hi, Im , Rushy 
+# Hi, Im , Absolut 
 udp06
 
 <p align="center">
-  <a href="#"><img src="https://cdn.discordapp.com/attachments/1373371972771123240/1373564301217890304/04760cd6cf15787eaf999c556689ab9b.gif?ex=682adef1&is=68298d71&hm=675a5abe746bc860b3c49cd6a6626422d49ecdfa009815db2ea0107477955a77&" width="125%" alt="Old Image" style="margin-right: 35px; vertical-align: middle;" /></a>
+  <a href="#"><img src="https://www.raed.net/img?id=1338613" width="125%" alt="Old Image" style="margin-right: 35px; vertical-align: middle;" /></a>
   <span style="font-size: 70px; vertical-align: middle;">666</span>
 </p>
 
